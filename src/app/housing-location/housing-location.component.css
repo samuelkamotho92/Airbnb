@@ -4,6 +4,12 @@
     padding-bottom: 30px;
 }
 
+.details {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
 .listing-heading {
     color: var(--primary-color);
     padding: 10px 20px 0 20px;
